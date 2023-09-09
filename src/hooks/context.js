@@ -101,8 +101,8 @@ const ContextProvider = ({ children }) => {
       title: "Portfolio-Manan Jain",
       summary: "Personal Portfolio Website",
       tech: ["ReactJS", "HTML5", "Styled Components"],
-      demo: "https://ps-react-calculator.netlify.app/",
-      repo: "https://github.com/pedrovsiqueira/react-calculator",
+      demo: "https://mananjain.rocks/",
+      repo: "https://github.com/Manan-jn/Portfolio",
     },
   ];
 

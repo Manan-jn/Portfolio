@@ -17,7 +17,7 @@ const AboutCards = () => {
             </IconContainer>
             <h3>{item.title1}</h3>
             <h3>{item.title2}</h3>
-            <h3>git add README.md{item.title3}</h3>
+            <h3>{item.title3}</h3>
           </Card>
         </Container>
       ))}
